@@ -1,0 +1,12 @@
+{
+  "name": "qr-aktarim",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "qrcode": "^1.5.4"
+  }
+}
